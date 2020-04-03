@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Y. P. Zhang | Photonic Biosensing Lab</title>
+    <link>/authors/y.-p.-zhang/</link>
+      <atom:link href="/authors/y.-p.-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Y. P. Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andrew Kirk 2019-2020</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_huc897746c407b4fa3ae6ff8298acb17a7_144882_300x300_fit_lanczos_2.png</url>
+      <title>Y. P. Zhang</title>
+      <link>/authors/y.-p.-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Nanocrystalline cellulose for optical encryption</title>
+      <link>/publication/rn-1219/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1219/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structured color humidity indicator from reversible pitch tuning in self-assembled nanocrystalline cellulose films</title>
+      <link>/publication/rn-1224/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1224/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nanocrystalline cellulose for covert optical encryption</title>
+      <link>/publication/rn-1232/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1232/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nanocrystalline cellulose for covert optical encryption</title>
+      <link>/publication/rn-1238/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1238/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Giguere | Photonic Biosensing Lab</title>
+    <link>/authors/a.-giguere/</link>
+      <atom:link href="/authors/a.-giguere/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Giguere</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andrew Kirk 2019-2020</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_huc897746c407b4fa3ae6ff8298acb17a7_144882_300x300_fit_lanczos_2.png</url>
+      <title>A. Giguere</title>
+      <link>/authors/a.-giguere/</link>
+    </image>
+    
+    <item>
+      <title>Design and Demonstration of Apodized Comb Filters on SOI</title>
+      <link>/publication/rn-1231/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1231/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Waveguide-coupled drop filters on SOI using quarter-wave shifted sidewalled grating resonators</title>
+      <link>/publication/rn-1233/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1233/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

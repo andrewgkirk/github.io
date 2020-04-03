@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photonic Biosensing Lab</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Photonic Biosensing Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andrew Kirk 2019-2020</copyright><lastBuildDate>Thu, 02 Apr 2020 15:55:20 -0400</lastBuildDate>
+    <image>
+      <url>/images/logo_huc897746c407b4fa3ae6ff8298acb17a7_144882_300x300_fit_lanczos_2.png</url>
+      <title>Photonic Biosensing Lab</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Example Page 1</title>
+      <link>/courses/example/example1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/example/example1/</guid>
+      <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page 2</title>
+      <link>/courses/example/example2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/example/example2/</guid>
+      <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CIHR COVID19 Funding</title>
+      <link>/post/cihr-covid19-funding/</link>
+      <pubDate>Thu, 02 Apr 2020 15:55:20 -0400</pubDate>
+      <guid>/post/cihr-covid19-funding/</guid>
+      <description>&lt;p&gt;The research laboratories of Mark Trifiro and Andrew Kirk recntly obtained funding from CIHR to pursue urgent research to develop a rapid point-of-care detection system for COVID-19 infection. This system will be based on our ultrafast plasmonic PCR technique, and has the potential to yield a result in 15 minutes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SPR and LSPR</title>
+      <link>/project/spr-and-lspr/</link>
+      <pubDate>Thu, 02 Apr 2020 11:09:20 -0400</pubDate>
+      <guid>/project/spr-and-lspr/</guid>
+      <description>&lt;p&gt;We have made several advances to the state of the art by developing new techniques to analyse noisy multispectral data obtained from localised surface plasmon resonance (LSPR) optical biosensors. LSPR sensor data interpretation has typically relied on the determination of the location of the resonant wavelength. While techniques such as the centroid method can be successful, they tend to fail when the resonance peaks are broad and noisy. Our new method, called the projection method [ 
+&lt;a href=&#34;/publication/rn-1207&#34;&gt;1&lt;/a&gt; ] makes use of the entire spectral data to locate the resonance peak and outperforms other methods. We have also for the first time introduced the use of maximum likelihood theory to maximise the information obtained from multi-resonance mode LSPR sensors [ 
+&lt;a href=&#34;/publication/rn-1199&#34;&gt;2&lt;/a&gt; ]
+obtaining more accurate estimates for adlayer thickness and refractive index.&lt;/p&gt;
+&lt;p&gt;We have also investigated the use of SPR to measure complex (lossy) materials [ 
+&lt;a href=&#34;/publication/rn-1202&#34;&gt;3&lt;/a&gt; ] and developed a spectro-angular SPR sensor [ 
+&lt;a href=&#34;/publication/rn-1217&#34;&gt;4&lt;/a&gt; ]&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Collaborators:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://metamaterials.riken.jp/tanaka/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Takuo Tanaka&lt;/a&gt; (Riken Institute)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.mcgill.ca/biomat-x/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Maryam Tabrizian&lt;/a&gt; (McGill Biomedical Engineering)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.usherbrooke.ca/iq/personne/paul-charette/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Paul Charette&lt;/a&gt;  (Universite de Sherbrooke)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Funding agencies:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;NSERC&lt;/li&gt;
+&lt;li&gt;Genome Quebec&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Photothermal Therapy</title>
+      <link>/project/photothermal-therapy/</link>
+      <pubDate>Thu, 02 Apr 2020 11:08:49 -0400</pubDate>
+      <guid>/project/photothermal-therapy/</guid>
+      <description>&lt;p&gt;We are developing improved methods for photothermal treatment of cancer tumours, focusing on modifications of functionalised nanoparticles that can improve absorption while also being bio-compatible. We are also investigating improved methods of beam delivery.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Students currently involved in this project:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/authors/fatma-oudjedi/&#34;&gt;Fatma Oudjedi&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Collaborators:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.mcgill.ca/endocrinology/facultydir/trifiromark&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Mark Trifiro&lt;/a&gt; (Jewish General Hospital)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.mcgill.ca/expmed/dr-miltiadis-paliouras&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Miltiadis Paliouras&lt;/a&gt; (Lady Davis Institute)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Resonant Cavity Sensors</title>
+      <link>/project/resonant-cavity-sensors/</link>
+      <pubDate>Sat, 14 Mar 2020 07:57:12 -0400</pubDate>
+      <guid>/project/resonant-cavity-sensors/</guid>
+      <description>&lt;p&gt;The exquisite sensitivity of high quality factor (Q-factor) whispering gallery mode (WGM) optical resonators has been recognized in sensing for many years, but most researchers have focused on measuring the frequency shift of the resonant modes, requiring a tunable laser. In 2012 we demonstrated for the first time that it is possible to perform biosensing in the time domain by measuring the phase shift of a modulated optical intensity signal that is injected into a functionalised WGM resonator [ 
+&lt;a href=&#34;/publication/rn-1236&#34;&gt;1&lt;/a&gt; ], using PS-CRDS.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;qchangePSCRDS&#34; alt=&#34;Direct measurement of Q-factor change using PSCRDS in an optical microtoroid&#34;&gt;&lt;/p&gt;
+&lt;p&gt;We have since been working towards entirely removing the need for a tunable laser in WGM sensing by employing a modulated source that has a linewidth spanning two or more WGM resonance lines. In this way some light from the source always couples into the cavity even as the cavity resonance shifts during a sensing event. To accomplish this we first have to developed a new analytical model for modulated partially coherent signals in optical resonators [ 
+&lt;a href=&#34;/publication/rn-1378&#34;&gt;2&lt;/a&gt; ].&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Students currently involved in this project:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/authors/rania-gamal/&#34;&gt;Rania Gamal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/authors/mohammad-motavas/&#34;&gt;Mohammad Motavas&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Collaborators:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://ntc.webs.upv.es/jaime-garcia-ruperez/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Jaime García Rupérez&lt;/a&gt; (Nanophotonics Technology Center, Universitat Politècnica de València)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://armani.usc.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Andrea Amani&lt;/a&gt; (University of Southern California)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Funding agencies:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;NSERC&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SPIE BIOS 2020</title>
+      <link>/post/spiebios2020/</link>
+      <pubDate>Tue, 03 Mar 2020 16:02:23 -0500</pubDate>
+      <guid>/post/spiebios2020/</guid>
+      <description>&lt;p&gt;We presented the latest results of research by &lt;a href=&#34;/authors/padideh-mohammadyousef/&#34;&gt;Padideh Mohammadyousef&lt;/a&gt; on fluorophore-free ultrafast plasmonic PCR at 
+&lt;a href=&#34;https://spie.org/conferences-and-exhibitions/photonics-west/bios?SSO=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SPIE-BIOS 2020&lt;/a&gt;. In an 
+&lt;a href=&#34;/publication/rn-1380&#34;&gt;oral presentation&lt;/a&gt; and a 
+&lt;a href=&#34;/publication/rn-1379&#34;&gt;poster&lt;/a&gt; we described the design of a compact VCSEL-based ultrafast PCR system and showed that by using ultraviolet transmission measurements it is possible to detect single DNA molecules without the need for fluorophores.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ultra-fast plasmonic PCR</title>
+      <link>/project/plasmonic-pcr/</link>
+      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/project/plasmonic-pcr/</guid>
+      <description>&lt;p&gt;The polymerase chain reaction (PCR) is widely used to amplify and identify DNA samples. Most commercial PCR systems require over an hour to produce a result, but we have recently demonstrated a new approach that uses laser heating of gold nanoparticles to drive the reaction. This has allowed us to produce test results in under &lt;em&gt;&lt;strong&gt;five minutes&lt;/strong&gt;&lt;/em&gt; and opens the technique up to point-of-care applications.&lt;/p&gt;
+&lt;p&gt;The gold nanoparticles are encapsulated and dispersed within the PCR solution. An 808 nm 2W laser then heats the particles, and cooling is accomplished using forced air. Because we heat and cool only the PCR solution and the thin-walled PCR tube, the wall-plug efficiency is much greater than in a standard thermocycler and the weight of the system is reduced. The method works well with standard 20 $\mu$L sample volumes and standard PCR tubes. It has been tested with a range of different polymerases and for PCR, RT-PCR and LAMP [ 
+&lt;a href=&#34;/publication/rn-1203&#34;&gt;1&lt;/a&gt; ]. It is possible to use a compact VCSEL laser to heat the tube directly with no intervening optics [ 
+&lt;a href=&#34;/publication/rn-1379&#34;&gt;2&lt;/a&gt; ].&lt;/p&gt;
+&lt;p&gt;The technique is compatible with standard fluorescence qPCR techniques. However, we have also developed a fluorophore-free method to quantify amplicon production. Because the PCR tubes are not surrounded by bulky heaters we are able to shine UV light directly through the tube. By measuring the change in UV absorption as dNTPs are converted to DNA amplicons we can directly quantify the reaction. We have demonstrated sensitivity of less than 10 copies [ 
+&lt;a href=&#34;/publication/rn-1380&#34;&gt;3&lt;/a&gt; ] . 
+&lt;img src=&#34;UVgraph.png&#34; alt=&#34;Direct detection of amplicon production via UV absorption measurement&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Current research efforts include extending the design to a multichannel system, developing a cartridge-based approach and developing a rapid test for the SARS-CoV-2 virus, responsible for COVID-19.&lt;/p&gt;
+&lt;p&gt;The intellectual property generated from this project has been licenced to a McGill start-up company 
+&lt;a href=&#34;prontomedtech.com&#34;&gt;Pronto Biomedical Devices&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Students currently involved in this project:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/authors/padideh-mohammadyousef/&#34;&gt;Padideh Mohammadyousef&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/authors/mamoun-benchekroun/&#34;&gt;Mamoun Benchekroun&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/authors/sihui-shen/&#34;&gt;Sihui Shen&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Collaborators:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.mcgill.ca/endocrinology/facultydir/trifiromark&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Mark Trifiro&lt;/a&gt; (Jewish General Hospital)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.mcgill.ca/expmed/dr-miltiadis-paliouras&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Miltiadis Paliouras&lt;/a&gt; (Lady Davis Institute)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://yargeau3cs.lab.mcgill.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Viviane Yargeau&lt;/a&gt; (McGill Department of Chemical Engineering)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Funding agencies:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Genome Quebec&lt;/li&gt;
+&lt;li&gt;Genome Canada&lt;/li&gt;
+&lt;li&gt;CIHR&lt;/li&gt;
+&lt;li&gt;McGill Faculty of Engineering (William and Rhea Seath Award for Engineering Innovation)&lt;/li&gt;
+&lt;li&gt;Trottier Institute for Sustainability in Engineering and Design (TISED) and McGill Planetary Health Programs&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ultrafast plasmonic and real-time label-free polymerase chain reaction</title>
+      <link>/publication/rn-1380/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1380/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ultrafast VCSEL-based Plasmonic Polymerase Chain Reaction with Real-time Label-free Amplicon Detection for Point-Of-Care Diagnostics</title>
+      <link>/publication/rn-1379/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1379/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One 
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+&lt;strong&gt;Two&lt;/strong&gt; 
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+Three 
+&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/img/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://spectrum.chat/academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Do you need a tunable laser for resonant cavity optical sensors?</title>
+      <link>/publication/rn-1378/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1378/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DPSK Modulation With a Dual-Drive Silicon Photonic Loop-Mirror Modulator</title>
+      <link>/publication/rn-1197/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1197/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real time label-free monitoring of plasmonic polymerase chain reaction products</title>
+      <link>/publication/rn-1198/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1198/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time fluorophore-free optical monitoring of ultrafast DNA amplification for qPCR</title>
+      <link>/publication/rn-1381/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1381/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved method for estimating adlayer thickness and bulk RI change for gold nanocrescent sensors</title>
+      <link>/publication/rn-1199/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1199/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bandwidth Tunable SOI Add-Drop Filter</title>
+      <link>/publication/rn-1205/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1205/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved self-referenced biosensing with emphasis on multiple-resonance nanorod sensors</title>
+      <link>/publication/rn-1200/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1200/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated silicon photonic reflective modulator for passive optical networks</title>
+      <link>/publication/rn-1204/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1204/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring of bacterial film formation and its breakdown with an angular-based surface plasmon resonance biosensor</title>
+      <link>/publication/rn-1201/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1201/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projection method for improving signal to noise ratio of localized surface plasmon resonance biosensors</title>
+      <link>/publication/rn-1207/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1207/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real time plasmonic qPCR: how fast is ultra-fast? 30 cycles in 54 seconds</title>
+      <link>/publication/rn-1203/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1203/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time measurement of complex refractive indices with surface plasmon resonance</title>
+      <link>/publication/rn-1202/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1202/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Accurate Lspr Biosensors Based on the Projection Method: A Direct Measurement for Refractive Index</title>
+      <link>/publication/rn-1206/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1206/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-power DPSK modulation at 10 Gbps using a silicon photonic loop mirror modulator</title>
+      <link>/publication/rn-1210/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1210/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-period contra-directional grating assisted coupler</title>
+      <link>/publication/rn-1208/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1208/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wavelength tunable integrated add-drop filter with 10.6 nm bandwidth adjustability</title>
+      <link>/publication/rn-1209/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1209/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytical expressions for waveguide-coupled phase shift microcavity ring down spectroscopy</title>
+      <link>/publication/rn-1211/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1211/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementation of Integrated Bandwidth Tunable Optical Add-Drop Filter Using Contra Directional Grating Assisted Couplers</title>
+      <link>/publication/rn-1214/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1214/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical and experimental investigation of plasmonic properties of silver nanocrescent structures for sensing applications</title>
+      <link>/publication/rn-1215/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1215/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optical Modulator with an Integrated Loop Mirror</title>
+      <link>/publication/rn-1213/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1213/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surface Plasmon Resonance Biosensor as a Tool for the Measurement of Complex Refractive Indices</title>
+      <link>/publication/rn-1212/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1212/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and analysis of a spectro-angular surface plasmon resonance biosensor operating in the visible spectrum</title>
+      <link>/publication/rn-1217/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1217/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient method for Long Range Surface Plasmon (LRSPP) wave excitation with Si-based grating couplers</title>
+      <link>/publication/rn-1218/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1218/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nanocrystalline cellulose for optical encryption</title>
+      <link>/publication/rn-1219/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1219/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing the Signal to Noise Ratio of Microcavity Sensors</title>
+      <link>/publication/rn-1216/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1216/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plasmonic properties of suspended nanodisc structures for the enhancement of the electric field distributions</title>
+      <link>/publication/rn-1220/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1220/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accurate determination of the quality factor and tunneling distance of axisymmetric resonators for biosensing applications</title>
+      <link>/publication/rn-1223/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1223/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application of phase shift ring down spectroscopy to microcavities for biosensing</title>
+      <link>/publication/rn-1230/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1230/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rolled-up 1.5 mu m InAs Quantum Dot Tube Lasers and Integrated Nanophotonic</title>
+      <link>/publication/rn-1229/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1229/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation and experimental studies on plasmonic properties associated with gold nanofin array on a polymer film</title>
+      <link>/publication/rn-1228/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1228/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simultaneous measurement of quality factor and wavelength shift by phase shift microcavity ring down spectroscopy (vol 20, pg 9090, 2012)</title>
+      <link>/publication/rn-1222/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1222/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectro-angular optical biosensor based on surface plasmon resonance operating in the visible spectrum</title>
+      <link>/publication/rn-1225/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1225/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structured color humidity indicator from reversible pitch tuning in self-assembled nanocrystalline cellulose films</title>
+      <link>/publication/rn-1224/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1224/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study and measurement of plasmonic properties of gold double nanotube structure arrayed on a polymer substrate</title>
+      <link>/publication/rn-1227/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1227/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards more accurate microcavity sensors: maximum likelihood estimation applied to a combination of quality factor and wavelength shifts</title>
+      <link>/publication/rn-1221/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1221/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wavelength and Bandwidth Tunable SOI Switch Using Integrated Gratings</title>
+      <link>/publication/rn-1226/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1226/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Comparison of Switching Energy of Resonant and Non-resonant Electro-optic Switches</title>
+      <link>/publication/rn-1241/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1241/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Nanorod Polymer Micro-array formed by Micro-Contact Printing</title>
+      <link>/publication/rn-1242/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1242/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A study of a self diagnostic platform for the detection of A2 biomarker for Leishmania donovani</title>
+      <link>/publication/rn-1245/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1245/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterisation of a Gold Nanorod Sol-Gel Utilising Inter-particle Coupling to Yield High Refractive Index Sensitivity</title>
+      <link>/publication/rn-1235/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1235/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demonstration of a plasmonic thermocycler for the amplification of human androgen receptor DNA</title>
+      <link>/publication/rn-1239/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1239/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and Demonstration of Apodized Comb Filters on SOI</title>
+      <link>/publication/rn-1231/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1231/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamical thermal effects in InGaAsP microtubes at telecom wavelengths</title>
+      <link>/publication/rn-1234/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1234/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental demonstration of application of ring down measurement approach to microcavities for biosensing</title>
+      <link>/publication/rn-1244/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1244/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nanocrystalline cellulose for covert optical encryption</title>
+      <link>/publication/rn-1232/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1232/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nanocrystalline cellulose for covert optical encryption</title>
+      <link>/publication/rn-1238/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1238/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optical mapping by low-cost instrumentation and disposable chemically induced nanochannels</title>
+      <link>/publication/rn-1243/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1243/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reflective Heterostructure Photonic Crystal Superprism Demultiplexer</title>
+      <link>/publication/rn-1237/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1237/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simultaneous measurement of quality factor and wavelength shift by phase shift microcavity ring down spectroscopy</title>
+      <link>/publication/rn-1236/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1236/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study of Plasmonic Properties of Gold Nanoparticles of Different Shapes with emphasis on Gold Nanopyramids</title>
+      <link>/publication/rn-1240/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1240/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Waveguide-coupled drop filters on SOI using quarter-wave shifted sidewalled grating resonators</title>
+      <link>/publication/rn-1233/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1233/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

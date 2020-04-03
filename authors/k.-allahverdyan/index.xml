@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K. Allahverdyan | Photonic Biosensing Lab</title>
+    <link>/authors/k.-allahverdyan/</link>
+      <atom:link href="/authors/k.-allahverdyan/index.xml" rel="self" type="application/rss+xml" />
+    <description>K. Allahverdyan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andrew Kirk 2019-2020</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_huc897746c407b4fa3ae6ff8298acb17a7_144882_300x300_fit_lanczos_2.png</url>
+      <title>K. Allahverdyan</title>
+      <link>/authors/k.-allahverdyan/</link>
+    </image>
+    
+    <item>
+      <title>Nanocrystalline cellulose for optical encryption</title>
+      <link>/publication/rn-1219/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1219/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

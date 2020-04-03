@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D. V. Plant | Photonic Biosensing Lab</title>
+    <link>/authors/d.-v.-plant/</link>
+      <atom:link href="/authors/d.-v.-plant/index.xml" rel="self" type="application/rss+xml" />
+    <description>D. V. Plant</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andrew Kirk 2019-2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_huc897746c407b4fa3ae6ff8298acb17a7_144882_300x300_fit_lanczos_2.png</url>
+      <title>D. V. Plant</title>
+      <link>/authors/d.-v.-plant/</link>
+    </image>
+    
+    <item>
+      <title>DPSK Modulation With a Dual-Drive Silicon Photonic Loop-Mirror Modulator</title>
+      <link>/publication/rn-1197/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1197/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-power DPSK modulation at 10 Gbps using a silicon photonic loop mirror modulator</title>
+      <link>/publication/rn-1210/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1210/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rolled-up 1.5 mu m InAs Quantum Dot Tube Lasers and Integrated Nanophotonic</title>
+      <link>/publication/rn-1229/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1229/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamical thermal effects in InGaAsP microtubes at telecom wavelengths</title>
+      <link>/publication/rn-1234/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1234/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

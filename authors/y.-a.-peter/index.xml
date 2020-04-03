@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Y. A. Peter | Photonic Biosensing Lab</title>
+    <link>/authors/y.-a.-peter/</link>
+      <atom:link href="/authors/y.-a.-peter/index.xml" rel="self" type="application/rss+xml" />
+    <description>Y. A. Peter</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andrew Kirk 2019-2020</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_huc897746c407b4fa3ae6ff8298acb17a7_144882_300x300_fit_lanczos_2.png</url>
+      <title>Y. A. Peter</title>
+      <link>/authors/y.-a.-peter/</link>
+    </image>
+    
+    <item>
+      <title>Simultaneous measurement of quality factor and wavelength shift by phase shift microcavity ring down spectroscopy (vol 20, pg 9090, 2012)</title>
+      <link>/publication/rn-1222/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1222/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental demonstration of application of ring down measurement approach to microcavities for biosensing</title>
+      <link>/publication/rn-1244/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1244/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simultaneous measurement of quality factor and wavelength shift by phase shift microcavity ring down spectroscopy</title>
+      <link>/publication/rn-1236/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1236/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

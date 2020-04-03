@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Tabrizian | Photonic Biosensing Lab</title>
+    <link>/authors/m.-tabrizian/</link>
+      <atom:link href="/authors/m.-tabrizian/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Tabrizian</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andrew Kirk 2019-2020</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_huc897746c407b4fa3ae6ff8298acb17a7_144882_300x300_fit_lanczos_2.png</url>
+      <title>M. Tabrizian</title>
+      <link>/authors/m.-tabrizian/</link>
+    </image>
+    
+    <item>
+      <title>Monitoring of bacterial film formation and its breakdown with an angular-based surface plasmon resonance biosensor</title>
+      <link>/publication/rn-1201/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1201/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time measurement of complex refractive indices with surface plasmon resonance</title>
+      <link>/publication/rn-1202/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1202/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surface Plasmon Resonance Biosensor as a Tool for the Measurement of Complex Refractive Indices</title>
+      <link>/publication/rn-1212/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1212/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and analysis of a spectro-angular surface plasmon resonance biosensor operating in the visible spectrum</title>
+      <link>/publication/rn-1217/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1217/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

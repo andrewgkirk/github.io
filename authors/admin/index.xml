@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photonic Biosensing Lab</title>
+    <link>/authors/admin/</link>
+      <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Photonic Biosensing Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andrew Kirk 2019-2020</copyright><lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_huc897746c407b4fa3ae6ff8298acb17a7_144882_300x300_fit_lanczos_2.png</url>
+      <title>Photonic Biosensing Lab</title>
+      <link>/authors/admin/</link>
+    </image>
+    
+    <item>
+      <title>Ultra-fast plasmonic PCR</title>
+      <link>/project/plasmonic-pcr/</link>
+      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/project/plasmonic-pcr/</guid>
+      <description>&lt;p&gt;The polymerase chain reaction (PCR) is widely used to amplify and identify DNA samples. Most commercial PCR systems require over an hour to produce a result, but we have recently demonstrated a new approach that uses laser heating of gold nanoparticles to drive the reaction. This has allowed us to produce test results in under &lt;em&gt;&lt;strong&gt;five minutes&lt;/strong&gt;&lt;/em&gt; and opens the technique up to point-of-care applications.&lt;/p&gt;
+&lt;p&gt;The gold nanoparticles are encapsulated and dispersed within the PCR solution. An 808 nm 2W laser then heats the particles, and cooling is accomplished using forced air. Because we heat and cool only the PCR solution and the thin-walled PCR tube, the wall-plug efficiency is much greater than in a standard thermocycler and the weight of the system is reduced. The method works well with standard 20 $\mu$L sample volumes and standard PCR tubes. It has been tested with a range of different polymerases and for PCR, RT-PCR and LAMP [ 
+&lt;a href=&#34;/publication/rn-1203&#34;&gt;1&lt;/a&gt; ]. It is possible to use a compact VCSEL laser to heat the tube directly with no intervening optics [ 
+&lt;a href=&#34;/publication/rn-1379&#34;&gt;2&lt;/a&gt; ].&lt;/p&gt;
+&lt;p&gt;The technique is compatible with standard fluorescence qPCR techniques. However, we have also developed a fluorophore-free method to quantify amplicon production. Because the PCR tubes are not surrounded by bulky heaters we are able to shine UV light directly through the tube. By measuring the change in UV absorption as dNTPs are converted to DNA amplicons we can directly quantify the reaction. We have demonstrated sensitivity of less than 10 copies [ 
+&lt;a href=&#34;/publication/rn-1380&#34;&gt;3&lt;/a&gt; ] . 
+&lt;img src=&#34;UVgraph.png&#34; alt=&#34;Direct detection of amplicon production via UV absorption measurement&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Current research efforts include extending the design to a multichannel system, developing a cartridge-based approach and developing a rapid test for the SARS-CoV-2 virus, responsible for COVID-19.&lt;/p&gt;
+&lt;p&gt;The intellectual property generated from this project has been licenced to a McGill start-up company 
+&lt;a href=&#34;prontomedtech.com&#34;&gt;Pronto Biomedical Devices&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Students currently involved in this project:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/authors/padideh-mohammadyousef/&#34;&gt;Padideh Mohammadyousef&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/authors/mamoun-benchekroun/&#34;&gt;Mamoun Benchekroun&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/authors/sihui-shen/&#34;&gt;Sihui Shen&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Collaborators:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.mcgill.ca/endocrinology/facultydir/trifiromark&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Mark Trifiro&lt;/a&gt; (Jewish General Hospital)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.mcgill.ca/expmed/dr-miltiadis-paliouras&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Miltiadis Paliouras&lt;/a&gt; (Lady Davis Institute)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://yargeau3cs.lab.mcgill.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Viviane Yargeau&lt;/a&gt; (McGill Department of Chemical Engineering)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Funding agencies:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Genome Quebec&lt;/li&gt;
+&lt;li&gt;Genome Canada&lt;/li&gt;
+&lt;li&gt;CIHR&lt;/li&gt;
+&lt;li&gt;McGill Faculty of Engineering (William and Rhea Seath Award for Engineering Innovation)&lt;/li&gt;
+&lt;li&gt;Trottier Institute for Sustainability in Engineering and Design (TISED) and McGill Planetary Health Programs&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

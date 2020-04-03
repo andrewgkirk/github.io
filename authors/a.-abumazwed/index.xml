@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Abumazwed | Photonic Biosensing Lab</title>
+    <link>/authors/a.-abumazwed/</link>
+      <atom:link href="/authors/a.-abumazwed/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Abumazwed</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andrew Kirk 2019-2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_huc897746c407b4fa3ae6ff8298acb17a7_144882_300x300_fit_lanczos_2.png</url>
+      <title>A. Abumazwed</title>
+      <link>/authors/a.-abumazwed/</link>
+    </image>
+    
+    <item>
+      <title>Improved method for estimating adlayer thickness and bulk RI change for gold nanocrescent sensors</title>
+      <link>/publication/rn-1199/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1199/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved self-referenced biosensing with emphasis on multiple-resonance nanorod sensors</title>
+      <link>/publication/rn-1200/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1200/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projection method for improving signal to noise ratio of localized surface plasmon resonance biosensors</title>
+      <link>/publication/rn-1207/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1207/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Accurate Lspr Biosensors Based on the Projection Method: A Direct Measurement for Refractive Index</title>
+      <link>/publication/rn-1206/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1206/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical and experimental investigation of plasmonic properties of silver nanocrescent structures for sensing applications</title>
+      <link>/publication/rn-1215/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1215/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plasmonic properties of suspended nanodisc structures for the enhancement of the electric field distributions</title>
+      <link>/publication/rn-1220/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1220/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study and measurement of plasmonic properties of gold double nanotube structure arrayed on a polymer substrate</title>
+      <link>/publication/rn-1227/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1227/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study of Plasmonic Properties of Gold Nanoparticles of Different Shapes with emphasis on Gold Nanopyramids</title>
+      <link>/publication/rn-1240/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1240/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

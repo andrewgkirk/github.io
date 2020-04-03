@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. Uchehara | Photonic Biosensing Lab</title>
+    <link>/authors/g.-uchehara/</link>
+      <atom:link href="/authors/g.-uchehara/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. Uchehara</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andrew Kirk 2019-2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_huc897746c407b4fa3ae6ff8298acb17a7_144882_300x300_fit_lanczos_2.png</url>
+      <title>G. Uchehara</title>
+      <link>/authors/g.-uchehara/</link>
+    </image>
+    
+    <item>
+      <title>Ultrafast VCSEL-based Plasmonic Polymerase Chain Reaction with Real-time Label-free Amplicon Detection for Point-Of-Care Diagnostics</title>
+      <link>/publication/rn-1379/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1379/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real time label-free monitoring of plasmonic polymerase chain reaction products</title>
+      <link>/publication/rn-1198/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/rn-1198/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

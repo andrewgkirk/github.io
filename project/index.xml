@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Photonic Biosensing Lab</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andrew Kirk 2019-2020</copyright><lastBuildDate>Thu, 02 Apr 2020 11:09:20 -0400</lastBuildDate>
+    <image>
+      <url>/images/logo_huc897746c407b4fa3ae6ff8298acb17a7_144882_300x300_fit_lanczos_2.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>SPR and LSPR</title>
+      <link>/project/spr-and-lspr/</link>
+      <pubDate>Thu, 02 Apr 2020 11:09:20 -0400</pubDate>
+      <guid>/project/spr-and-lspr/</guid>
+      <description>&lt;p&gt;We have made several advances to the state of the art by developing new techniques to analyse noisy multispectral data obtained from localised surface plasmon resonance (LSPR) optical biosensors. LSPR sensor data interpretation has typically relied on the determination of the location of the resonant wavelength. While techniques such as the centroid method can be successful, they tend to fail when the resonance peaks are broad and noisy. Our new method, called the projection method [ 
+&lt;a href=&#34;/publication/rn-1207&#34;&gt;1&lt;/a&gt; ] makes use of the entire spectral data to locate the resonance peak and outperforms other methods. We have also for the first time introduced the use of maximum likelihood theory to maximise the information obtained from multi-resonance mode LSPR sensors [ 
+&lt;a href=&#34;/publication/rn-1199&#34;&gt;2&lt;/a&gt; ]
+obtaining more accurate estimates for adlayer thickness and refractive index.&lt;/p&gt;
+&lt;p&gt;We have also investigated the use of SPR to measure complex (lossy) materials [ 
+&lt;a href=&#34;/publication/rn-1202&#34;&gt;3&lt;/a&gt; ] and developed a spectro-angular SPR sensor [ 
+&lt;a href=&#34;/publication/rn-1217&#34;&gt;4&lt;/a&gt; ]&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Collaborators:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://metamaterials.riken.jp/tanaka/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Takuo Tanaka&lt;/a&gt; (Riken Institute)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.mcgill.ca/biomat-x/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Maryam Tabrizian&lt;/a&gt; (McGill Biomedical Engineering)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.usherbrooke.ca/iq/personne/paul-charette/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Paul Charette&lt;/a&gt;  (Universite de Sherbrooke)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Funding agencies:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;NSERC&lt;/li&gt;
+&lt;li&gt;Genome Quebec&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Photothermal Therapy</title>
+      <link>/project/photothermal-therapy/</link>
+      <pubDate>Thu, 02 Apr 2020 11:08:49 -0400</pubDate>
+      <guid>/project/photothermal-therapy/</guid>
+      <description>&lt;p&gt;We are developing improved methods for photothermal treatment of cancer tumours, focusing on modifications of functionalised nanoparticles that can improve absorption while also being bio-compatible. We are also investigating improved methods of beam delivery.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Students currently involved in this project:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/authors/fatma-oudjedi/&#34;&gt;Fatma Oudjedi&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Collaborators:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.mcgill.ca/endocrinology/facultydir/trifiromark&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Mark Trifiro&lt;/a&gt; (Jewish General Hospital)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.mcgill.ca/expmed/dr-miltiadis-paliouras&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Miltiadis Paliouras&lt;/a&gt; (Lady Davis Institute)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Resonant Cavity Sensors</title>
+      <link>/project/resonant-cavity-sensors/</link>
+      <pubDate>Sat, 14 Mar 2020 07:57:12 -0400</pubDate>
+      <guid>/project/resonant-cavity-sensors/</guid>
+      <description>&lt;p&gt;The exquisite sensitivity of high quality factor (Q-factor) whispering gallery mode (WGM) optical resonators has been recognized in sensing for many years, but most researchers have focused on measuring the frequency shift of the resonant modes, requiring a tunable laser. In 2012 we demonstrated for the first time that it is possible to perform biosensing in the time domain by measuring the phase shift of a modulated optical intensity signal that is injected into a functionalised WGM resonator [ 
+&lt;a href=&#34;/publication/rn-1236&#34;&gt;1&lt;/a&gt; ], using PS-CRDS.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;qchangePSCRDS&#34; alt=&#34;Direct measurement of Q-factor change using PSCRDS in an optical microtoroid&#34;&gt;&lt;/p&gt;
+&lt;p&gt;We have since been working towards entirely removing the need for a tunable laser in WGM sensing by employing a modulated source that has a linewidth spanning two or more WGM resonance lines. In this way some light from the source always couples into the cavity even as the cavity resonance shifts during a sensing event. To accomplish this we first have to developed a new analytical model for modulated partially coherent signals in optical resonators [ 
+&lt;a href=&#34;/publication/rn-1378&#34;&gt;2&lt;/a&gt; ].&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Students currently involved in this project:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/authors/rania-gamal/&#34;&gt;Rania Gamal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/authors/mohammad-motavas/&#34;&gt;Mohammad Motavas&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Collaborators:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://ntc.webs.upv.es/jaime-garcia-ruperez/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Jaime García Rupérez&lt;/a&gt; (Nanophotonics Technology Center, Universitat Politècnica de València)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://armani.usc.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Andrea Amani&lt;/a&gt; (University of Southern California)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Funding agencies:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;NSERC&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ultra-fast plasmonic PCR</title>
+      <link>/project/plasmonic-pcr/</link>
+      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/project/plasmonic-pcr/</guid>
+      <description>&lt;p&gt;The polymerase chain reaction (PCR) is widely used to amplify and identify DNA samples. Most commercial PCR systems require over an hour to produce a result, but we have recently demonstrated a new approach that uses laser heating of gold nanoparticles to drive the reaction. This has allowed us to produce test results in under &lt;em&gt;&lt;strong&gt;five minutes&lt;/strong&gt;&lt;/em&gt; and opens the technique up to point-of-care applications.&lt;/p&gt;
+&lt;p&gt;The gold nanoparticles are encapsulated and dispersed within the PCR solution. An 808 nm 2W laser then heats the particles, and cooling is accomplished using forced air. Because we heat and cool only the PCR solution and the thin-walled PCR tube, the wall-plug efficiency is much greater than in a standard thermocycler and the weight of the system is reduced. The method works well with standard 20 $\mu$L sample volumes and standard PCR tubes. It has been tested with a range of different polymerases and for PCR, RT-PCR and LAMP [ 
+&lt;a href=&#34;/publication/rn-1203&#34;&gt;1&lt;/a&gt; ]. It is possible to use a compact VCSEL laser to heat the tube directly with no intervening optics [ 
+&lt;a href=&#34;/publication/rn-1379&#34;&gt;2&lt;/a&gt; ].&lt;/p&gt;
+&lt;p&gt;The technique is compatible with standard fluorescence qPCR techniques. However, we have also developed a fluorophore-free method to quantify amplicon production. Because the PCR tubes are not surrounded by bulky heaters we are able to shine UV light directly through the tube. By measuring the change in UV absorption as dNTPs are converted to DNA amplicons we can directly quantify the reaction. We have demonstrated sensitivity of less than 10 copies [ 
+&lt;a href=&#34;/publication/rn-1380&#34;&gt;3&lt;/a&gt; ] . 
+&lt;img src=&#34;UVgraph.png&#34; alt=&#34;Direct detection of amplicon production via UV absorption measurement&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Current research efforts include extending the design to a multichannel system, developing a cartridge-based approach and developing a rapid test for the SARS-CoV-2 virus, responsible for COVID-19.&lt;/p&gt;
+&lt;p&gt;The intellectual property generated from this project has been licenced to a McGill start-up company 
+&lt;a href=&#34;prontomedtech.com&#34;&gt;Pronto Biomedical Devices&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Students currently involved in this project:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/authors/padideh-mohammadyousef/&#34;&gt;Padideh Mohammadyousef&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/authors/mamoun-benchekroun/&#34;&gt;Mamoun Benchekroun&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/authors/sihui-shen/&#34;&gt;Sihui Shen&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Collaborators:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.mcgill.ca/endocrinology/facultydir/trifiromark&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Mark Trifiro&lt;/a&gt; (Jewish General Hospital)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.mcgill.ca/expmed/dr-miltiadis-paliouras&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Miltiadis Paliouras&lt;/a&gt; (Lady Davis Institute)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://yargeau3cs.lab.mcgill.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Viviane Yargeau&lt;/a&gt; (McGill Department of Chemical Engineering)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Funding agencies:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Genome Quebec&lt;/li&gt;
+&lt;li&gt;Genome Canada&lt;/li&gt;
+&lt;li&gt;CIHR&lt;/li&gt;
+&lt;li&gt;McGill Faculty of Engineering (William and Rhea Seath Award for Engineering Innovation)&lt;/li&gt;
+&lt;li&gt;Trottier Institute for Sustainability in Engineering and Design (TISED) and McGill Planetary Health Programs&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

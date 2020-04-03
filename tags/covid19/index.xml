@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>COVID19 | Photonic Biosensing Lab</title>
+    <link>/tags/covid19/</link>
+      <atom:link href="/tags/covid19/index.xml" rel="self" type="application/rss+xml" />
+    <description>COVID19</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andrew Kirk 2019-2020</copyright><lastBuildDate>Thu, 02 Apr 2020 15:55:20 -0400</lastBuildDate>
+    <image>
+      <url>/images/logo_huc897746c407b4fa3ae6ff8298acb17a7_144882_300x300_fit_lanczos_2.png</url>
+      <title>COVID19</title>
+      <link>/tags/covid19/</link>
+    </image>
+    
+    <item>
+      <title>CIHR COVID19 Funding</title>
+      <link>/post/cihr-covid19-funding/</link>
+      <pubDate>Thu, 02 Apr 2020 15:55:20 -0400</pubDate>
+      <guid>/post/cihr-covid19-funding/</guid>
+      <description>&lt;p&gt;The research laboratories of Mark Trifiro and Andrew Kirk recntly obtained funding from CIHR to pursue urgent research to develop a rapid point-of-care detection system for COVID-19 infection. This system will be based on our ultrafast plasmonic PCR technique, and has the potential to yield a result in 15 minutes.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
