@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Photonic Biosensing Lab</title>
-    <link>/post/</link>
-      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://andrewgkirk.github.io/post/</link>
+      <atom:link href="https://andrewgkirk.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andrew Kirk 2019-2020</copyright><lastBuildDate>Thu, 02 Apr 2020 15:55:20 -0400</lastBuildDate>
     <image>
-      <url>/images/logo_huc897746c407b4fa3ae6ff8298acb17a7_144882_300x300_fit_lanczos_2.png</url>
+      <url>https://andrewgkirk.github.io/images/logo_huc897746c407b4fa3ae6ff8298acb17a7_144882_300x300_fit_lanczos_2.png</url>
       <title>Posts</title>
-      <link>/post/</link>
+      <link>https://andrewgkirk.github.io/post/</link>
     </image>
     
     <item>
       <title>CIHR COVID19 Funding</title>
-      <link>/post/cihr-covid19-funding/</link>
+      <link>https://andrewgkirk.github.io/post/cihr-covid19-funding/</link>
       <pubDate>Thu, 02 Apr 2020 15:55:20 -0400</pubDate>
-      <guid>/post/cihr-covid19-funding/</guid>
+      <guid>https://andrewgkirk.github.io/post/cihr-covid19-funding/</guid>
       <description>&lt;p&gt;The research laboratories of Mark Trifiro and Andrew Kirk recntly obtained funding from CIHR to pursue urgent research to develop a rapid point-of-care detection system for COVID-19 infection. This system will be based on our ultrafast plasmonic PCR technique, and has the potential to yield a result in 15 minutes.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>SPIE BIOS 2020</title>
-      <link>/post/spiebios2020/</link>
+      <link>https://andrewgkirk.github.io/post/spiebios2020/</link>
       <pubDate>Tue, 03 Mar 2020 16:02:23 -0500</pubDate>
-      <guid>/post/spiebios2020/</guid>
-      <description>&lt;p&gt;We presented the latest results of research by &lt;a href=&#34;/authors/padideh-mohammadyousef/&#34;&gt;Padideh Mohammadyousef&lt;/a&gt; on fluorophore-free ultrafast plasmonic PCR at 
+      <guid>https://andrewgkirk.github.io/post/spiebios2020/</guid>
+      <description>&lt;p&gt;We presented the latest results of research by &lt;a href=&#34;https://andrewgkirk.github.io/authors/padideh-mohammadyousef/&#34;&gt;Padideh Mohammadyousef&lt;/a&gt; on fluorophore-free ultrafast plasmonic PCR at 
 &lt;a href=&#34;https://spie.org/conferences-and-exhibitions/photonics-west/bios?SSO=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SPIE-BIOS 2020&lt;/a&gt;. In an 
-&lt;a href=&#34;/publication/rn-1380&#34;&gt;oral presentation&lt;/a&gt; and a 
-&lt;a href=&#34;/publication/rn-1379&#34;&gt;poster&lt;/a&gt; we described the design of a compact VCSEL-based ultrafast PCR system and showed that by using ultraviolet transmission measurements it is possible to detect single DNA molecules without the need for fluorophores.&lt;/p&gt;
+&lt;a href=&#34;https://andrewgkirk.github.io/publication/rn-1380&#34;&gt;oral presentation&lt;/a&gt; and a 
+&lt;a href=&#34;https://andrewgkirk.github.io/publication/rn-1379&#34;&gt;poster&lt;/a&gt; we described the design of a compact VCSEL-based ultrafast PCR system and showed that by using ultraviolet transmission measurements it is possible to detect single DNA molecules without the need for fluorophores.&lt;/p&gt;
 </description>
     </item>
     

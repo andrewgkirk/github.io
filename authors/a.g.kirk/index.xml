@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> A.G.Kirk | Photonic Biosensing Lab</title>
-    <link>/authors/a.g.kirk/</link>
-      <atom:link href="/authors/a.g.kirk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://andrewgkirk.github.io/authors/a.g.kirk/</link>
+      <atom:link href="https://andrewgkirk.github.io/authors/a.g.kirk/index.xml" rel="self" type="application/rss+xml" />
     <description> A.G.Kirk</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andrew Kirk 2019-2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/logo_huc897746c407b4fa3ae6ff8298acb17a7_144882_300x300_fit_lanczos_2.png</url>
+      <url>https://andrewgkirk.github.io/images/logo_huc897746c407b4fa3ae6ff8298acb17a7_144882_300x300_fit_lanczos_2.png</url>
       <title> A.G.Kirk</title>
-      <link>/authors/a.g.kirk/</link>
+      <link>https://andrewgkirk.github.io/authors/a.g.kirk/</link>
     </image>
     
     <item>
       <title>Real-time fluorophore-free optical monitoring of ultrafast DNA amplification for qPCR</title>
-      <link>/publication/rn-1381/</link>
+      <link>https://andrewgkirk.github.io/publication/rn-1381/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-1381/</guid>
+      <guid>https://andrewgkirk.github.io/publication/rn-1381/</guid>
       <description></description>
     </item>
     

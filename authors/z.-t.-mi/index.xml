@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Z. T. Mi | Photonic Biosensing Lab</title>
-    <link>/authors/z.-t.-mi/</link>
-      <atom:link href="/authors/z.-t.-mi/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://andrewgkirk.github.io/authors/z.-t.-mi/</link>
+      <atom:link href="https://andrewgkirk.github.io/authors/z.-t.-mi/index.xml" rel="self" type="application/rss+xml" />
     <description>Z. T. Mi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andrew Kirk 2019-2020</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/logo_huc897746c407b4fa3ae6ff8298acb17a7_144882_300x300_fit_lanczos_2.png</url>
+      <url>https://andrewgkirk.github.io/images/logo_huc897746c407b4fa3ae6ff8298acb17a7_144882_300x300_fit_lanczos_2.png</url>
       <title>Z. T. Mi</title>
-      <link>/authors/z.-t.-mi/</link>
+      <link>https://andrewgkirk.github.io/authors/z.-t.-mi/</link>
     </image>
     
     <item>
       <title>Dynamical thermal effects in InGaAsP microtubes at telecom wavelengths</title>
-      <link>/publication/rn-1234/</link>
+      <link>https://andrewgkirk.github.io/publication/rn-1234/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-1234/</guid>
+      <guid>https://andrewgkirk.github.io/publication/rn-1234/</guid>
       <description></description>
     </item>
     

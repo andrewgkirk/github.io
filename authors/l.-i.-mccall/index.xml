@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>L. I. McCall | Photonic Biosensing Lab</title>
-    <link>/authors/l.-i.-mccall/</link>
-      <atom:link href="/authors/l.-i.-mccall/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://andrewgkirk.github.io/authors/l.-i.-mccall/</link>
+      <atom:link href="https://andrewgkirk.github.io/authors/l.-i.-mccall/index.xml" rel="self" type="application/rss+xml" />
     <description>L. I. McCall</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andrew Kirk 2019-2020</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/logo_huc897746c407b4fa3ae6ff8298acb17a7_144882_300x300_fit_lanczos_2.png</url>
+      <url>https://andrewgkirk.github.io/images/logo_huc897746c407b4fa3ae6ff8298acb17a7_144882_300x300_fit_lanczos_2.png</url>
       <title>L. I. McCall</title>
-      <link>/authors/l.-i.-mccall/</link>
+      <link>https://andrewgkirk.github.io/authors/l.-i.-mccall/</link>
     </image>
     
     <item>
       <title>A study of a self diagnostic platform for the detection of A2 biomarker for Leishmania donovani</title>
-      <link>/publication/rn-1245/</link>
+      <link>https://andrewgkirk.github.io/publication/rn-1245/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-1245/</guid>
+      <guid>https://andrewgkirk.github.io/publication/rn-1245/</guid>
       <description></description>
     </item>
     

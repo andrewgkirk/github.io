@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>F. Soltani | Photonic Biosensing Lab</title>
-    <link>/authors/f.-soltani/</link>
-      <atom:link href="/authors/f.-soltani/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://andrewgkirk.github.io/authors/f.-soltani/</link>
+      <atom:link href="https://andrewgkirk.github.io/authors/f.-soltani/index.xml" rel="self" type="application/rss+xml" />
     <description>F. Soltani</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andrew Kirk 2019-2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/logo_huc897746c407b4fa3ae6ff8298acb17a7_144882_300x300_fit_lanczos_2.png</url>
+      <url>https://andrewgkirk.github.io/images/logo_huc897746c407b4fa3ae6ff8298acb17a7_144882_300x300_fit_lanczos_2.png</url>
       <title>F. Soltani</title>
-      <link>/authors/f.-soltani/</link>
+      <link>https://andrewgkirk.github.io/authors/f.-soltani/</link>
     </image>
     
     <item>
       <title>DPSK Modulation With a Dual-Drive Silicon Photonic Loop-Mirror Modulator</title>
-      <link>/publication/rn-1197/</link>
+      <link>https://andrewgkirk.github.io/publication/rn-1197/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-1197/</guid>
+      <guid>https://andrewgkirk.github.io/publication/rn-1197/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integrated silicon photonic reflective modulator for passive optical networks</title>
-      <link>/publication/rn-1204/</link>
+      <link>https://andrewgkirk.github.io/publication/rn-1204/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-1204/</guid>
+      <guid>https://andrewgkirk.github.io/publication/rn-1204/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Low-power DPSK modulation at 10 Gbps using a silicon photonic loop mirror modulator</title>
-      <link>/publication/rn-1210/</link>
+      <link>https://andrewgkirk.github.io/publication/rn-1210/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-1210/</guid>
+      <guid>https://andrewgkirk.github.io/publication/rn-1210/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optical Modulator with an Integrated Loop Mirror</title>
-      <link>/publication/rn-1213/</link>
+      <link>https://andrewgkirk.github.io/publication/rn-1213/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-1213/</guid>
+      <guid>https://andrewgkirk.github.io/publication/rn-1213/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Comparison of Switching Energy of Resonant and Non-resonant Electro-optic Switches</title>
-      <link>/publication/rn-1241/</link>
+      <link>https://andrewgkirk.github.io/publication/rn-1241/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-1241/</guid>
+      <guid>https://andrewgkirk.github.io/publication/rn-1241/</guid>
       <description></description>
     </item>
     

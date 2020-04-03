@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M. T. Boroojerdi | Photonic Biosensing Lab</title>
-    <link>/authors/m.-t.-boroojerdi/</link>
-      <atom:link href="/authors/m.-t.-boroojerdi/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://andrewgkirk.github.io/authors/m.-t.-boroojerdi/</link>
+      <atom:link href="https://andrewgkirk.github.io/authors/m.-t.-boroojerdi/index.xml" rel="self" type="application/rss+xml" />
     <description>M. T. Boroojerdi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andrew Kirk 2019-2020</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/logo_huc897746c407b4fa3ae6ff8298acb17a7_144882_300x300_fit_lanczos_2.png</url>
+      <url>https://andrewgkirk.github.io/images/logo_huc897746c407b4fa3ae6ff8298acb17a7_144882_300x300_fit_lanczos_2.png</url>
       <title>M. T. Boroojerdi</title>
-      <link>/authors/m.-t.-boroojerdi/</link>
+      <link>https://andrewgkirk.github.io/authors/m.-t.-boroojerdi/</link>
     </image>
     
     <item>
       <title>Bandwidth Tunable SOI Add-Drop Filter</title>
-      <link>/publication/rn-1205/</link>
+      <link>https://andrewgkirk.github.io/publication/rn-1205/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-1205/</guid>
+      <guid>https://andrewgkirk.github.io/publication/rn-1205/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Two-period contra-directional grating assisted coupler</title>
-      <link>/publication/rn-1208/</link>
+      <link>https://andrewgkirk.github.io/publication/rn-1208/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-1208/</guid>
+      <guid>https://andrewgkirk.github.io/publication/rn-1208/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wavelength tunable integrated add-drop filter with 10.6 nm bandwidth adjustability</title>
-      <link>/publication/rn-1209/</link>
+      <link>https://andrewgkirk.github.io/publication/rn-1209/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-1209/</guid>
+      <guid>https://andrewgkirk.github.io/publication/rn-1209/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Implementation of Integrated Bandwidth Tunable Optical Add-Drop Filter Using Contra Directional Grating Assisted Couplers</title>
-      <link>/publication/rn-1214/</link>
+      <link>https://andrewgkirk.github.io/publication/rn-1214/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-1214/</guid>
+      <guid>https://andrewgkirk.github.io/publication/rn-1214/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wavelength and Bandwidth Tunable SOI Switch Using Integrated Gratings</title>
-      <link>/publication/rn-1226/</link>
+      <link>https://andrewgkirk.github.io/publication/rn-1226/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-1226/</guid>
+      <guid>https://andrewgkirk.github.io/publication/rn-1226/</guid>
       <description></description>
     </item>
     

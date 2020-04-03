@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>W. Kubo | Photonic Biosensing Lab</title>
-    <link>/authors/w.-kubo/</link>
-      <atom:link href="/authors/w.-kubo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://andrewgkirk.github.io/authors/w.-kubo/</link>
+      <atom:link href="https://andrewgkirk.github.io/authors/w.-kubo/index.xml" rel="self" type="application/rss+xml" />
     <description>W. Kubo</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Andrew Kirk 2019-2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/logo_huc897746c407b4fa3ae6ff8298acb17a7_144882_300x300_fit_lanczos_2.png</url>
+      <url>https://andrewgkirk.github.io/images/logo_huc897746c407b4fa3ae6ff8298acb17a7_144882_300x300_fit_lanczos_2.png</url>
       <title>W. Kubo</title>
-      <link>/authors/w.-kubo/</link>
+      <link>https://andrewgkirk.github.io/authors/w.-kubo/</link>
     </image>
     
     <item>
       <title>Improved method for estimating adlayer thickness and bulk RI change for gold nanocrescent sensors</title>
-      <link>/publication/rn-1199/</link>
+      <link>https://andrewgkirk.github.io/publication/rn-1199/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-1199/</guid>
+      <guid>https://andrewgkirk.github.io/publication/rn-1199/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improved self-referenced biosensing with emphasis on multiple-resonance nanorod sensors</title>
-      <link>/publication/rn-1200/</link>
+      <link>https://andrewgkirk.github.io/publication/rn-1200/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-1200/</guid>
+      <guid>https://andrewgkirk.github.io/publication/rn-1200/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projection method for improving signal to noise ratio of localized surface plasmon resonance biosensors</title>
-      <link>/publication/rn-1207/</link>
+      <link>https://andrewgkirk.github.io/publication/rn-1207/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-1207/</guid>
+      <guid>https://andrewgkirk.github.io/publication/rn-1207/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards Accurate Lspr Biosensors Based on the Projection Method: A Direct Measurement for Refractive Index</title>
-      <link>/publication/rn-1206/</link>
+      <link>https://andrewgkirk.github.io/publication/rn-1206/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-1206/</guid>
+      <guid>https://andrewgkirk.github.io/publication/rn-1206/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Numerical and experimental investigation of plasmonic properties of silver nanocrescent structures for sensing applications</title>
-      <link>/publication/rn-1215/</link>
+      <link>https://andrewgkirk.github.io/publication/rn-1215/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-1215/</guid>
+      <guid>https://andrewgkirk.github.io/publication/rn-1215/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simulation and experimental studies on plasmonic properties associated with gold nanofin array on a polymer film</title>
-      <link>/publication/rn-1228/</link>
+      <link>https://andrewgkirk.github.io/publication/rn-1228/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-1228/</guid>
+      <guid>https://andrewgkirk.github.io/publication/rn-1228/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Study and measurement of plasmonic properties of gold double nanotube structure arrayed on a polymer substrate</title>
-      <link>/publication/rn-1227/</link>
+      <link>https://andrewgkirk.github.io/publication/rn-1227/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/rn-1227/</guid>
+      <guid>https://andrewgkirk.github.io/publication/rn-1227/</guid>
       <description></description>
     </item>
     
